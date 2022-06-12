@@ -1,2 +1,3 @@
-# React-rendering
-Created with CodeSandbox
+# RUdemy 教材「React に入門した人のためのもっと React が楽しくなるステップアップコース完全版」
+
+## セクション 3: 再レンダリングの仕組みを知りレンダリングを最適化する
